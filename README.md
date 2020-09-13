@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm interested in Back-End (API) development,
+Deep learning implementation, Mobile app/game development.
+
 <!--
 **triarts/triarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
