@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-I'm interested in Back-End (API) development (Spring boot)
-Deep learning implementation (TensorFlow, Keras API)
-Mobile app/game development (Flutter, Unity)
+I'm interested in:
+* Back-End (API) development (Spring boot)
+* Deep learning implementation (TensorFlow, Keras API)
+* Mobile app/game development (Flutter, Unity)
 
 <!--
 **triarts/triarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
