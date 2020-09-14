@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Hi! you can call me Ata, I'm a master of science graduates from the institute of computer science and engineering, National Chiao Tung University
+Hi! you can call me Ata, 
+I'm a master of science graduates from the institute of computer science and engineering, National Chiao Tung University
 
 I'm interested in:
 * Back-End (API) development (Spring boot)
