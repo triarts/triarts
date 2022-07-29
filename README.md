@@ -8,15 +8,6 @@ I'm interested in:
 * Deep learning implementation (TensorFlow, Keras API)
 * Mobile app/game development (Flutter, Unity)
 
-CV softcopy download (PDF): [(click here!)](https://drive.google.com/file/d/1-Tc2L3j9TVQaLESac5FWnelQh5x4kFx9/view?usp=sharing)
-
-Project Category:
-* AI related repos
-  * https://github.com/triarts/ECG-Classification-Paper-Implementation
-  * https://github.com/triarts/NCTU_AI-hw3
-  * https://github.com/triarts/NCTU_AI-hw2
-  * https://github.com/triarts/NCTU_AI-hw1
-
 <!--
 **triarts/triarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
