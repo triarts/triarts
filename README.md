@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-Hi! you can call me Ata,   
-I'm a master of science graduates from the institute of computer science and engineering, National Chiao Tung University
-
-I'm interested in:
-* Back-End (API) development (Spring boot)
-* Deep learning implementation (TensorFlow, Keras API)
-* Mobile app/game development (Flutter, Unity)
+Backend Java Developer with 4 years of professional work experience in designing, developing, and maintaining web applications. Proficient in Java, Spring Boot, RESTful API development, database management (PostgreSQL), and deployment using docker with foundational level cloud technologies (AWS). Adept at collaborating with product managers to deliver robust software solutions on time. Able to lead a team of 3-5 people with scrum/agile methodology. Interested in applied AI and actively learning new technologies to keep updated with latest technology to improve application performance and overall development workflow.
 
 <!--
 **triarts/triarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
